@@ -1,0 +1,16 @@
+#test_search:
+#  test_search_1:
+#    keyword: 张三
+#  test_search_2:
+#    keyword: 123
+#test_fn1:
+#  test_fn1_1:
+#    keyword: 6666
+test_login:
+  test_login_1:
+    phone: 15527491761
+    password: 123
+#  test_fn3_2:
+
+#    username: 小红
+#    password: xiaohong123

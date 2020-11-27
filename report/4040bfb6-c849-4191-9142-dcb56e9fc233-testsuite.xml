@@ -1,0 +1,65 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1606439949128" stop="1606439949195">
+  <name>test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1606439949128" status="passed" stop="1606439949133">
+      <name>test_para.TestDemo.test_f1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="33588-MainThread"/>
+        <label name="host" value="DESKTOP-VHFJ4O4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1606439949135" status="passed" stop="1606439949137">
+      <name>test_para.TestDemo.test_f2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="33588-MainThread"/>
+        <label name="host" value="DESKTOP-VHFJ4O4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1606439949138" status="failed" stop="1606439949192">
+      <name>test_para.TestDemo.test_f3</name>
+      <failure>
+        <message>AssertionError: assert False</message>
+        <stack-trace>self = &lt;test.test_para.TestDemo object at 0x00000290FDAAC3C8&gt;
+
+    def test_f3(self):
+        print("3失败")
+&gt;       assert False
+E       assert False
+
+test\test_para.py:19: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="33588-MainThread"/>
+        <label name="host" value="DESKTOP-VHFJ4O4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1606439949193" status="passed" stop="1606439949195">
+      <name>test_para.TestDemo.test_f4</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="33588-MainThread"/>
+        <label name="host" value="DESKTOP-VHFJ4O4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

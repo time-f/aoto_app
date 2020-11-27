@@ -1,0 +1,181 @@
+{
+  "a3df6e6c83e949dd067c18dcfab2ad2a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5cafc9ae40255ce4",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过问卷6",
+      "time" : {
+        "start" : 1606034172610,
+        "stop" : 1606034172611,
+        "duration" : 1
+      }
+    } ]
+  },
+  "54141be5c3e04325a49b64c8a59bacdb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "296d75bd6f834e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过问卷4",
+      "time" : {
+        "start" : 1606034172606,
+        "stop" : 1606034172607,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a51ef0c9f09adc878f4fbdcd17648a11" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1bd9e0154ea65fcc",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过问卷7",
+      "time" : {
+        "start" : 1606034172612,
+        "stop" : 1606034172612,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e1d178ed90a1de6680b6e765c53bf1b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "351524c80e493483",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过问卷8附加题",
+      "time" : {
+        "start" : 1606034172613,
+        "stop" : 1606034172614,
+        "duration" : 1
+      }
+    } ]
+  },
+  "97b5c45698cc8af918dd2cf5f8c2a92d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fad9c4aee0b29d4a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过问卷9",
+      "time" : {
+        "start" : 1606034172615,
+        "stop" : 1606034172615,
+        "duration" : 0
+      }
+    } ]
+  },
+  "aea3d8dedeb74b328605d7ccc3f1fbe1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1cd8dc000aa15666",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过问卷2",
+      "time" : {
+        "start" : 1606034172603,
+        "stop" : 1606034172603,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8353c47c2c4469fdc5f1a3052dd60301" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "288ef14d6ba423fe",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过问卷5",
+      "time" : {
+        "start" : 1606034172608,
+        "stop" : 1606034172609,
+        "duration" : 1
+      }
+    } ]
+  },
+  "bbab3d4920a324fc7d85b7edbcb4fae0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79e828a305a19bc6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过问卷1",
+      "time" : {
+        "start" : 1606034172600,
+        "stop" : 1606034172601,
+        "duration" : 1
+      }
+    } ]
+  },
+  "7465f7311a8965a1acf23e497bb7b196" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ecc01ca53707688",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606034149939,
+        "stop" : 1606034172599,
+        "duration" : 22660
+      }
+    } ]
+  }
+}

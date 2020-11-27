@@ -1,0 +1,91 @@
+[ {
+  "uid" : "1bd9e0154ea65fcc",
+  "name" : "test_login.Testlb.test_q7",
+  "time" : {
+    "start" : 1606034172612,
+    "stop" : 1606034172612,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fad9c4aee0b29d4a",
+  "name" : "test_login.Testlb.test_q9",
+  "time" : {
+    "start" : 1606034172615,
+    "stop" : 1606034172615,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "351524c80e493483",
+  "name" : "test_login.Testlb.test_q8",
+  "time" : {
+    "start" : 1606034172613,
+    "stop" : 1606034172614,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1cd8dc000aa15666",
+  "name" : "test_login.Testlb.test_q2",
+  "time" : {
+    "start" : 1606034172603,
+    "stop" : 1606034172603,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "296d75bd6f834e",
+  "name" : "test_login.Testlb.test_q4",
+  "time" : {
+    "start" : 1606034172606,
+    "stop" : 1606034172607,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5cafc9ae40255ce4",
+  "name" : "test_login.Testlb.test_q6",
+  "time" : {
+    "start" : 1606034172610,
+    "stop" : 1606034172611,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "79e828a305a19bc6",
+  "name" : "test_login.Testlb.test_q1",
+  "time" : {
+    "start" : 1606034172600,
+    "stop" : 1606034172601,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "288ef14d6ba423fe",
+  "name" : "test_login.Testlb.test_q5",
+  "time" : {
+    "start" : 1606034172608,
+    "stop" : 1606034172609,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4ecc01ca53707688",
+  "name" : "test_login.Testlb.test_login[15527491761-123]",
+  "time" : {
+    "start" : 1606034149939,
+    "stop" : 1606034172599,
+    "duration" : 22660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
